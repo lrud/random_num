@@ -1,3 +1,3 @@
 # random_num
-Small Random Nuimber generator
+Small Random Number generator
 Testing git-cmds and receiving text input from user
